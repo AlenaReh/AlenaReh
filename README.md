@@ -1,6 +1,6 @@
 ### Hi there! 😊 My name is Alena and I'm happy to see you on my GitHub page 👋 Let's connect
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me: 
   * <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/"><img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <br>
   * <a target="_blank" href="mailto:alenarehberger92@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
