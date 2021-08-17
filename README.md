@@ -1,3 +1,5 @@
+![ALena rehberger (1)](https://user-images.githubusercontent.com/84926588/129792624-0727c370-8cbc-4878-81ac-86c7049207d8.png)
+
 ### Hi there! 😊 My name is Alena and I'm happy to see you on my GitHub page 👋 Let's connect
 
 - 🌱 I’m currently learning **Node.js**
