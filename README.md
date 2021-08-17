@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: 
-<br>
 <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,7 +9,8 @@
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
-- 😄 Pronouns: she/her /hers
+
+- Pronouns: she/her /hers
 - ⚡ Fun fact: I was born and raised in Russia
 
 [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh)](https://github.com/AlenaReh/github-readme-stats)
