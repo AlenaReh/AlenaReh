@@ -1,22 +1,15 @@
 ### Hi there! 😊 My name is Alena and I'm happy to see you on my GitHub page 👋 Let's connect
 
-<!-- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
- -->
- <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto:alenarehberger92@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br>
-
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: 
-  * E-mail: alenarehberger92@gmail.com
-  * Linkedin: https://www.linkedin.com/in/alena-rehberger/
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/">
+  <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="mailto:alenarehberger92@gmail.com">
+  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br>
 - 😄 Pronouns: she/her /hers
 - ⚡ Fun fact: I was born and raised in Russia
 
