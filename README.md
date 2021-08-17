@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: 
-  * <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/">
+ * <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-  * <a target="_blank" href="mailto:alenarehberger92@gmail.com">
+ * <a target="_blank" href="mailto:alenarehberger92@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
