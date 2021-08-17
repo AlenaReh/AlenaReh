@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I was born and raised in Russia
 
 <!-- [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh)](https://github.com/AlenaReh/github-readme-stats) -->
-![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh&theme=dracula&show_icons=true)
+![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh&theme=calm&show_icons=true)
 
 
 ## Comfortable to work with :woman_technologist:
