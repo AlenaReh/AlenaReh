@@ -13,6 +13,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: 
   * E-mail: alenarehberger92@gmail.com
@@ -20,9 +21,9 @@
 - 😄 Pronouns: she/her /hers
 - ⚡ Fun fact: I was born and raised in Russia
 
-![Visitor Count](https://profile-counter.glitch.me/AlenaReh/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/AlenaReh/count.svg) -->
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?AlenaReh=aryclenio&show_icons=true)
+![AlenaReh GitHub Stats](https://github-readme-stats.vercel.app/api?AlenaReh=aryclenio&show_icons=true)
 
 ## Comfortable to work with :woman_technologist:
 
