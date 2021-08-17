@@ -7,7 +7,7 @@
 - Pronouns: she/her /hers
 - ⚡ Fun fact: I was born and raised in Russia
 
-[![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh&theme=dracula=true)](https://github.com/AlenaReh/github-readme-stats?AlenaReh=anuraghazra&theme=dracula=true)
+[![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh)](https://github.com/AlenaReh/github-readme-stats)
 
 ## Comfortable to work with :woman_technologist:
 
