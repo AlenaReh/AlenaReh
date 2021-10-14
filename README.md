@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me: 
-  * <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/"><img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <br> 
-  * <a target="_blank" href="mailto:alenarehberger92@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  * <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> 
+  * <a target="_blank" href="mailto:alenarehberger92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 - Pronouns: she/her /hers
 - ⚡ Fun fact: I was born and raised in Russia
 
