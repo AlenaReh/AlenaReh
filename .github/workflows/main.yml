@@ -27,13 +27,19 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: AlenaReh
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+        - uses: Platane/snk@master
+          with:
+            # github user name to read the contribution graph from (**required**)
+            # using action context var `github.repository_owner` or specified user
+            AlenaReh: ${{ github.AlenaReh }}
+
+            # path of the generated gif file
+            # If left empty, the gif file will not be generated
+            gif_out_path: dist/github-snake.gif
+
+            # path of the generated svg file
+            # If left empty, the svg file will not be generated
+            svg_out_path: dist/github-snake.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
@@ -54,17 +60,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-- uses: Platane/snk@master
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    AlenaReh: ${{ github.AlenaReh }}
 
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
 
