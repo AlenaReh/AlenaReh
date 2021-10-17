@@ -35,5 +35,6 @@
 ![image](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
 ![image](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-
+Oh no! :snake: Wiggles is eating up all of my contributions! :smile:
+![snake gif](https://github.com/AlenaReh/AlenaReh/blob/output/github-contribution-grid-snake.gif)
 
