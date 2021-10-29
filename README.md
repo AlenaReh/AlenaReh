@@ -12,6 +12,8 @@
 <!-- [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh)](https://github.com/AlenaReh/github-readme-stats) -->
 ![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh&theme=calm&show_icons=true)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlenaReh&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <a href="https://github.com/sabesansathananthan">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlenaReh&layout=compact&theme=calm&show_icons=true" />
 </a>
