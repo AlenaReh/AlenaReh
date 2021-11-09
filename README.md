@@ -2,7 +2,7 @@
 
 ### Hi there! 😊 My name is Alena and I'm happy to see you on my GitHub page 👋 Let's connect
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **REACT**
 - 📫 How to reach me: 
   * <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> 
   * <a target="_blank" href="mailto:alenarehberger92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
