@@ -7,7 +7,7 @@
   * <a target="_blank" href="https://www.linkedin.com/in/alena-rehberger/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> 
   * <a target="_blank" href="mailto:alenarehberger92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 - Pronouns: she/her/hers
-- ⚡ Fun fact: I was born and raised in Russia
+- ⚡ Fun fact: I love yoga and meditation :lotus_position_woman:
 
 <!-- [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh)](https://github.com/AlenaReh/github-readme-stats) -->
 ![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaReh&theme=calm&show_icons=true)
